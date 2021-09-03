@@ -1,0 +1,2 @@
+2021-09-02 18:05:25.992769: TOO_OLD: "that's a piece of history now; it's too late to reply to it" on field 'parent', kyo3jf
+2021-09-02 20:58:08.825887: BANNED_FROM_SUBREDDIT: 'that user is banned from the subreddit' on field 'parent', pglbor
